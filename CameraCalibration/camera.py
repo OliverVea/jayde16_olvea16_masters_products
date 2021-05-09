@@ -166,7 +166,7 @@ if __name__ == '__main__':
     from tqdm import tqdm
     import shutil
 
-    datasetpath = "30mmhandpicked/*"
+    datasetpath = "calibration_images/*"
 
     image_files = glob.glob(datasetpath)
 
@@ -185,14 +185,11 @@ if __name__ == '__main__':
         except Exception as e:
             if image_files is not None:
                 i = int(e.err.split(' ')[-1])
-                shutil.move(image_files[i], '30mmcalibcheckcond/' + image_files[i].split('\\')[1])
                 del greyscale_images[i]
                 del image_files[i]
             print(e)
 
-    print(camera)
-
-    img = cv2.imread('D:\\WindowsFolders\\Code\\Master\\jayde16_olvea16_masters_2021\\camera_calibration\\angleimages\\vlcsnap-2021-02-22-22h23m07s859.png')
+    img = cv2.imread('angle_image.png')
 
     cv2.imshow('original', img)
 
