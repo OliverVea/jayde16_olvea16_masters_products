@@ -1,0 +1,726 @@
+Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7f83d90940>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f8e8d2e10>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f8e746748>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f84bd04a8>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7f83cbf2e8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f8e746748>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f8e8d2e10>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f84bd04a8>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7f83d90940>}
+Video is already not being recorded.
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7f83d90940>}
+'q' to exit.Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7f866a1940>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f911e3e10>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f91057748>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f874df4a8>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7f865d22e8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f91057748>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f911e3e10>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f874df4a8>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7f866a1940>}
+Video is already not being recorded.
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7f866a1940>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f865d2320>}
+'q' to exit.GST_ARGUS: Creating output stream
+CONSUMER: Waiting until producer is connected...
+GST_ARGUS: Available Sensor modes :
+GST_ARGUS: 3264 x 2464 FR = 21.000000 fps Duration = 47619048 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 3264 x 1848 FR = 28.000001 fps Duration = 35714284 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1920 x 1080 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1640 x 1232 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 59.999999 fps Duration = 16666667 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 120.000005 fps Duration = 8333333 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: Running with following settings:
+   Camera index = 0 
+   Camera mode  = 0 
+   Output Stream W = 3264 H = 2464 
+   seconds to Run    = 0 
+   Frame Rate = 21.000000 
+GST_ARGUS: Setup Complete, Starting captures for 0 seconds
+GST_ARGUS: Starting repeat capture requests.
+CONSUMER: Producer has connected; continuing.
+Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7f8dc9a940>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f987dce10>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f98650748>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f8ead74e0>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7f8dbcb2e8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f98650748>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f987dce10>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f8ead74e0>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7f8dc9a940>}
+Video is already not being recorded.
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7f8dc9a940>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f8dbcb320>}
+'q' to exit.Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7f985eb8d0>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7fa31bce10>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7fa30306d8>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f994c6438>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7f985ba278>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7fa30306d8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7fa31bce10>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f994c6438>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7f985eb8d0>}
+Video is already not being recorded.
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7f985eb8d0>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f985ba2b0>}
+'q' to exit.Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7fa64038d0>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7fb0fd4e48>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7fb0e486d8>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7fa72de438>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7fa63d2278>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7fb0e486d8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7fb0fd4e48>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7fa72de438>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7fa64038d0>}
+Video is already not being recorded.
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7fa64038d0>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7fa63d22b0>}
+'q' to exit.Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7f9b78ca90>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7fa62c1e48>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7fa6135780>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f9c5c85f8>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7f9b6bb438>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7fa6135780>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7fa62c1e48>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f9c5c85f8>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7f9b78ca90>}
+Video is already not being recorded.
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7f9b78ca90>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f9b6bb470>}
+'q' to exit.Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7f8e232a20>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f98d67e48>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f98bdb710>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f8f06e588>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7f8e1743c8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f98bdb710>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f98d67e48>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f8f06e588>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7f8e232a20>}
+Video is already not being recorded.
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7f8e232a20>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f8e174400>}
+'q' to exit.GST_ARGUS: Creating output stream
+CONSUMER: Waiting until producer is connected...
+GST_ARGUS: Available Sensor modes :
+GST_ARGUS: 3264 x 2464 FR = 21.000000 fps Duration = 47619048 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 3264 x 1848 FR = 28.000001 fps Duration = 35714284 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1920 x 1080 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1640 x 1232 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 59.999999 fps Duration = 16666667 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 120.000005 fps Duration = 8333333 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: Running with following settings:
+   Camera index = 0 
+   Camera mode  = 0 
+   Output Stream W = 3264 H = 2464 
+   seconds to Run    = 0 
+   Frame Rate = 21.000000 
+GST_ARGUS: Setup Complete, Starting captures for 0 seconds
+GST_ARGUS: Starting repeat capture requests.
+CONSUMER: Producer has connected; continuing.
+Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7f8275df28>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f78a91710>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f77b82518>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f77b824e0>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7f777e1cf8>}
+Event 'IMU Initialized' (24) called with args: {'caller': <imu.IMU object at 0x7f777e1f60>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f77b82518>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f78a91710>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f77b824e0>}
+Event 'Switch Changed' (3) called with args: {'state': 1, 'previous_state': -1, 'caller': <switch.Switch object at 0x7f8275df28>}
+Event 'Video Started' (14) called with args: {'caller': <video.Video object at 0x7f777e1cf8>}
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7f8275df28>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f777e1d30>}
+Event 'IMU Started' (25) called with args: {'caller': <imu.IMU object at 0x7f777e1f60>}
+displaying: True
+'q' to exit.Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7fb150df28>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7fa781aa58>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7fa690e7f0>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7fa690e7b8>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7fa6564ac8>}
+Event 'IMU Initialized' (24) called with args: {'caller': <imu.IMU object at 0x7fa6564b38>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7fa690e7f0>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7fa781aa58>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7fa690e7b8>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7fb150df28>}
+Video is already not being recorded.
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7fb150df28>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7fa6564b00>}
+Event 'IMU Started' (25) called with args: {'caller': <imu.IMU object at 0x7fa6564b38>}
+'q' to exit.GST_ARGUS: Creating output stream
+CONSUMER: Waiting until producer is connected...
+GST_ARGUS: Available Sensor modes :
+GST_ARGUS: 3264 x 2464 FR = 21.000000 fps Duration = 47619048 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 3264 x 1848 FR = 28.000001 fps Duration = 35714284 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1920 x 1080 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1640 x 1232 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 59.999999 fps Duration = 16666667 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 120.000005 fps Duration = 8333333 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: Running with following settings:
+   Camera index = 0 
+   Camera mode  = 0 
+   Output Stream W = 3264 H = 2464 
+   seconds to Run    = 0 
+   Frame Rate = 21.000000 
+GST_ARGUS: Setup Complete, Starting captures for 0 seconds
+GST_ARGUS: Starting repeat capture requests.
+CONSUMER: Producer has connected; continuing.
+Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7f8cb16f60>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f82e23a20>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f81f177b8>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f81f17780>}
+Event 'Webserver Initialized' (17) called with args: {'caller': <webserver.WebServer object at 0x7f81b6da90>}
+Event 'IMU Initialized' (24) called with args: {'caller': <imu.IMU object at 0x7f81b6db38>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f81f177b8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f82e23a20>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f81f17780>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7f8cb16f60>}
+Webserver isn't running.
+Event 'Webserver Started' (18) called with args: {'caller': <webserver.WebServer object at 0x7f81b6da90>}
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7f8cb16f60>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f81b6db00>}
+Event 'IMU Started' (25) called with args: {'caller': <imu.IMU object at 0x7f81b6db38>}
+'q' to exit.is_valid
+INFO:     10.42.0.163:42074 - "GET / HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42084 - "GET /video HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42074 - "GET /static/css/bootstrap.min.css HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42076 - "GET /static/css/cover.css HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42078 - "GET /static/js/jquery-3.4.1.slim.min.js HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42080 - "GET /static/js/popper.min.js HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42082 - "GET /static/js/bootstrap.min.js HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42074 - "GET /static/img/favicon-32x32.png HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42074 - "GET /video HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42088 - "GET / HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42088 - "GET /video HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42094 - "GET /static/img/favicon-32x32.png HTTP/1.1" 200 OK
+GST_ARGUS: Creating output stream
+CONSUMER: Waiting until producer is connected...
+GST_ARGUS: Available Sensor modes :
+GST_ARGUS: 3264 x 2464 FR = 21.000000 fps Duration = 47619048 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 3264 x 1848 FR = 28.000001 fps Duration = 35714284 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1920 x 1080 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1640 x 1232 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 59.999999 fps Duration = 16666667 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 120.000005 fps Duration = 8333333 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: Running with following settings:
+   Camera index = 0 
+   Camera mode  = 0 
+   Output Stream W = 3264 H = 2464 
+   seconds to Run    = 0 
+   Frame Rate = 21.000000 
+GST_ARGUS: Setup Complete, Starting captures for 0 seconds
+GST_ARGUS: Starting repeat capture requests.
+CONSUMER: Producer has connected; continuing.
+Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7fa89b8f28>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f9ecc5a20>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f9ddb97b8>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f9ddb9780>}
+Event 'Webserver Initialized' (17) called with args: {'caller': <webserver.WebServer object at 0x7f9da0ea90>}
+Event 'IMU Initialized' (24) called with args: {'caller': <imu.IMU object at 0x7f9da0eb38>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f9ddb97b8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f9ecc5a20>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f9ddb9780>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7fa89b8f28>}
+Webserver isn't running.
+Event 'Webserver Started' (18) called with args: {'caller': <webserver.WebServer object at 0x7f9da0ea90>}
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7fa89b8f28>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f9da0eb00>}
+Event 'IMU Started' (25) called with args: {'caller': <imu.IMU object at 0x7f9da0eb38>}
+'q' to exit.INFO:     10.42.0.163:42130 - "GET / HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42130 - "GET /video HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42132 - "GET /static/img/favicon-32x32.png HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42142 - "GET / HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42142 - "GET /video HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42146 - "GET /static/img/favicon-32x32.png HTTP/1.1" 200 OK
+GST_ARGUS: Creating output stream
+CONSUMER: Waiting until producer is connected...
+GST_ARGUS: Available Sensor modes :
+GST_ARGUS: 3264 x 2464 FR = 21.000000 fps Duration = 47619048 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 3264 x 1848 FR = 28.000001 fps Duration = 35714284 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1920 x 1080 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1640 x 1232 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 59.999999 fps Duration = 16666667 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 120.000005 fps Duration = 8333333 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: Running with following settings:
+   Camera index = 0 
+   Camera mode  = 0 
+   Output Stream W = 3264 H = 2464 
+   seconds to Run    = 0 
+   Frame Rate = 21.000000 
+GST_ARGUS: Setup Complete, Starting captures for 0 seconds
+GST_ARGUS: Starting repeat capture requests.
+CONSUMER: Producer has connected; continuing.
+GST_ARGUS: Creating output stream
+CONSUMER: Waiting until producer is connected...
+GST_ARGUS: Available Sensor modes :
+GST_ARGUS: 3264 x 2464 FR = 21.000000 fps Duration = 47619048 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 3264 x 1848 FR = 28.000001 fps Duration = 35714284 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1920 x 1080 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1640 x 1232 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 59.999999 fps Duration = 16666667 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 120.000005 fps Duration = 8333333 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: Running with following settings:
+   Camera index = 0 
+   Camera mode  = 0 
+   Output Stream W = 3264 H = 2464 
+   seconds to Run    = 0 
+   Frame Rate = 21.000000 
+GST_ARGUS: Setup Complete, Starting captures for 0 seconds
+GST_ARGUS: Starting repeat capture requests.
+CONSUMER: Producer has connected; continuing.
+Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7f7b6cbf60>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f719d8a20>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f70acc7b8>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f70acc780>}
+Event 'Webserver Initialized' (17) called with args: {'caller': <webserver.WebServer object at 0x7f70722a90>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f70acc7b8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f719d8a20>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f70acc780>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7f7b6cbf60>}
+Webserver isn't running.
+Event 'Webserver Started' (18) called with args: {'caller': <webserver.WebServer object at 0x7f70722a90>}
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7f7b6cbf60>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f70722b00>}
+is_valid
+'q' to exit.is_valid
+is_valid
+is_valid
+INFO:     10.42.0.163:42230 - "GET /video HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42232 - "GET / HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42232 - "GET /video HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42238 - "GET /static/img/favicon-32x32.png HTTP/1.1" 200 OK
+is_valid
+INFO:     10.42.0.163:42240 - "GET / HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42240 - "GET /video HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42244 - "GET /static/img/favicon-32x32.png HTTP/1.1" 200 OK
+is_valid
+INFO:     10.42.0.163:42246 - "GET /video HTTP/1.1" 200 OK
+GST_ARGUS: Creating output stream
+CONSUMER: Waiting until producer is connected...
+GST_ARGUS: Available Sensor modes :
+GST_ARGUS: 3264 x 2464 FR = 21.000000 fps Duration = 47619048 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 3264 x 1848 FR = 28.000001 fps Duration = 35714284 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1920 x 1080 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1640 x 1232 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 59.999999 fps Duration = 16666667 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 120.000005 fps Duration = 8333333 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: Running with following settings:
+   Camera index = 0 
+   Camera mode  = 0 
+   Output Stream W = 3264 H = 2464 
+   seconds to Run    = 0 
+   Frame Rate = 21.000000 
+GST_ARGUS: Setup Complete, Starting captures for 0 seconds
+GST_ARGUS: Starting repeat capture requests.
+CONSUMER: Producer has connected; continuing.
+Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7f84a17f28>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f7ad249e8>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f79e187b8>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f79e18780>}
+Event 'Webserver Initialized' (17) called with args: {'caller': <webserver.WebServer object at 0x7f79a6ea90>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f79e187b8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f7ad249e8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f79e18780>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7f84a17f28>}
+Webserver isn't running.
+Event 'Webserver Started' (18) called with args: {'caller': <webserver.WebServer object at 0x7f79a6ea90>}
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7f84a17f28>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f79a6eb00>}
+'q' to exit.is_valid
+is_valid
+is_valid
+is_valid
+is_valid
+is_valid
+is_valid
+INFO:     10.42.0.163:42278 - "GET /video HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42282 - "GET / HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42282 - "GET /video HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42286 - "GET /static/img/favicon-32x32.png HTTP/1.1" 200 OK
+is_valid
+is_valid
+is_valid
+is_valid
+INFO:     10.42.0.163:42294 - "GET / HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42294 - "GET /video HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42296 - "GET /static/img/favicon-32x32.png HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42300 - "GET / HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42300 - "GET /video HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42304 - "GET /static/img/favicon-32x32.png HTTP/1.1" 200 OK
+is_valid
+INFO:     10.42.0.163:42306 - "GET /video HTTP/1.1" 200 OK
+is_valid
+INFO:     10.42.0.163:42308 - "GET / HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42308 - "GET /video HTTP/1.1" 200 OK
+INFO:     10.42.0.163:42314 - "GET /static/img/favicon-32x32.png HTTP/1.1" 200 OK
+Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7f8c379f98>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f82686a20>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f8177a7f0>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f8177a7b8>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7f813cfac8>}
+Event 'IMU Initialized' (24) called with args: {'caller': <imu.IMU object at 0x7f813cfb38>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f8177a7f0>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f82686a20>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f8177a7b8>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7f8c379f98>}
+Video is already not being recorded.
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7f8c379f98>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f813cfb00>}
+Event 'IMU Started' (25) called with args: {'caller': <imu.IMU object at 0x7f813cfb38>}
+'q' to exit.GST_ARGUS: Creating output stream
+CONSUMER: Waiting until producer is connected...
+GST_ARGUS: Available Sensor modes :
+GST_ARGUS: 3264 x 2464 FR = 21.000000 fps Duration = 47619048 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 3264 x 1848 FR = 28.000001 fps Duration = 35714284 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1920 x 1080 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1640 x 1232 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 59.999999 fps Duration = 16666667 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 120.000005 fps Duration = 8333333 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: Running with following settings:
+   Camera index = 0 
+   Camera mode  = 0 
+   Output Stream W = 3264 H = 2464 
+   seconds to Run    = 0 
+   Frame Rate = 21.000000 
+GST_ARGUS: Setup Complete, Starting captures for 0 seconds
+GST_ARGUS: Starting repeat capture requests.
+CONSUMER: Producer has connected; continuing.
+GST_ARGUS: Cleaning up
+CONSUMER: Done Success
+GST_ARGUS: Done Success
+GST_ARGUS: Creating output stream
+CONSUMER: Waiting until producer is connected...
+GST_ARGUS: Available Sensor modes :
+GST_ARGUS: 3264 x 2464 FR = 21.000000 fps Duration = 47619048 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 3264 x 1848 FR = 28.000001 fps Duration = 35714284 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1920 x 1080 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1640 x 1232 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 59.999999 fps Duration = 16666667 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 120.000005 fps Duration = 8333333 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: Running with following settings:
+   Camera index = 0 
+   Camera mode  = 0 
+   Output Stream W = 3264 H = 2464 
+   seconds to Run    = 0 
+   Frame Rate = 21.000000 
+GST_ARGUS: Setup Complete, Starting captures for 0 seconds
+GST_ARGUS: Starting repeat capture requests.
+CONSUMER: Producer has connected; continuing.
+GST_ARGUS: Cleaning up
+CONSUMER: Done Success
+GST_ARGUS: Done Success
+GST_ARGUS: Creating output stream
+CONSUMER: Waiting until producer is connected...
+GST_ARGUS: Available Sensor modes :
+GST_ARGUS: 3264 x 2464 FR = 21.000000 fps Duration = 47619048 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 3264 x 1848 FR = 28.000001 fps Duration = 35714284 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1920 x 1080 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1640 x 1232 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 59.999999 fps Duration = 16666667 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 120.000005 fps Duration = 8333333 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: Running with following settings:
+   Camera index = 0 
+   Camera mode  = 0 
+   Output Stream W = 3264 H = 2464 
+   seconds to Run    = 0 
+   Frame Rate = 21.000000 
+GST_ARGUS: Setup Complete, Starting captures for 0 seconds
+GST_ARGUS: Starting repeat capture requests.
+CONSUMER: Producer has connected; continuing.
+Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7f782a0fd0>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f6e5afa20>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f6d6a27b8>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f6d6a27f0>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7f6d2f6ac8>}
+Event 'IMU Initialized' (24) called with args: {'caller': <imu.IMU object at 0x7f6d2f6b38>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f6d6a27b8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f6e5afa20>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f6d6a27f0>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7f782a0fd0>}
+Video is already not being recorded.
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7f782a0fd0>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f6d2f6b00>}
+Event 'IMU Started' (25) called with args: {'caller': <imu.IMU object at 0x7f6d2f6b38>}
+'q' to exit.Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7f95a45f28>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7fa0577f60>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7fa0577f28>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f968849e8>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7f955caac8>}
+Event 'IMU Initialized' (24) called with args: {'caller': <imu.IMU object at 0x7f955cab38>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7fa0577f28>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7fa0577f60>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f968849e8>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7f95a45f28>}
+Video is already not being recorded.
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7f95a45f28>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f955cab00>}
+Event 'IMU Started' (25) called with args: {'caller': <imu.IMU object at 0x7f955cab38>}
+'q' to exit.GST_ARGUS: Creating output stream
+CONSUMER: Waiting until producer is connected...
+GST_ARGUS: Available Sensor modes :
+GST_ARGUS: 3264 x 2464 FR = 21.000000 fps Duration = 47619048 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 3264 x 1848 FR = 28.000001 fps Duration = 35714284 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1920 x 1080 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1640 x 1232 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 59.999999 fps Duration = 16666667 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 120.000005 fps Duration = 8333333 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: Running with following settings:
+   Camera index = 0 
+   Camera mode  = 0 
+   Output Stream W = 3264 H = 2464 
+   seconds to Run    = 0 
+   Frame Rate = 21.000000 
+GST_ARGUS: Setup Complete, Starting captures for 0 seconds
+GST_ARGUS: Starting repeat capture requests.
+CONSUMER: Producer has connected; continuing.
+GST_ARGUS: Cleaning up
+CONSUMER: Done Success
+GST_ARGUS: Done Success
+GST_ARGUS: Creating output stream
+CONSUMER: Waiting until producer is connected...
+GST_ARGUS: Available Sensor modes :
+GST_ARGUS: 3264 x 2464 FR = 21.000000 fps Duration = 47619048 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 3264 x 1848 FR = 28.000001 fps Duration = 35714284 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1920 x 1080 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1640 x 1232 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 59.999999 fps Duration = 16666667 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 120.000005 fps Duration = 8333333 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: Running with following settings:
+   Camera index = 0 
+   Camera mode  = 0 
+   Output Stream W = 3264 H = 2464 
+   seconds to Run    = 0 
+   Frame Rate = 21.000000 
+GST_ARGUS: Setup Complete, Starting captures for 0 seconds
+GST_ARGUS: Starting repeat capture requests.
+CONSUMER: Producer has connected; continuing.
+GST_ARGUS: Creating output stream
+CONSUMER: Waiting until producer is connected...
+GST_ARGUS: Available Sensor modes :
+GST_ARGUS: 3264 x 2464 FR = 21.000000 fps Duration = 47619048 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 3264 x 1848 FR = 28.000001 fps Duration = 35714284 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1920 x 1080 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1640 x 1232 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 59.999999 fps Duration = 16666667 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 120.000005 fps Duration = 8333333 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: Running with following settings:
+   Camera index = 0 
+   Camera mode  = 0 
+   Output Stream W = 3264 H = 2464 
+   seconds to Run    = 0 
+   Frame Rate = 21.000000 
+GST_ARGUS: Setup Complete, Starting captures for 0 seconds
+GST_ARGUS: Starting repeat capture requests.
+CONSUMER: Producer has connected; continuing.
+Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7fa0055f28>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f96362a20>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f954567b8>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f95456780>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7f950aca90>}
+Event 'IMU Initialized' (24) called with args: {'caller': <imu.IMU object at 0x7f950acb00>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f954567b8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f96362a20>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f95456780>}
+Event 'Switch Changed' (3) called with args: {'state': 1, 'previous_state': -1, 'caller': <switch.Switch object at 0x7fa0055f28>}
+Event 'Video Started' (14) called with args: {'caller': <video.Video object at 0x7f950aca90>}
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7fa0055f28>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f950acac8>}
+Event 'IMU Started' (25) called with args: {'caller': <imu.IMU object at 0x7f950acb00>}
+displaying: True
+'q' to exit.Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7fa0b0df60>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f96e1a9e8>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f95f0e7b8>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f95f0e780>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7f95b63a90>}
+Event 'IMU Initialized' (24) called with args: {'caller': <imu.IMU object at 0x7f95b63b00>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f95f0e7b8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f96e1a9e8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f95f0e780>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7fa0b0df60>}
+Video is already not being recorded.
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7fa0b0df60>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f95b63ac8>}
+Event 'IMU Started' (25) called with args: {'caller': <imu.IMU object at 0x7f95b63b00>}
+'q' to exit.Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7f80976f28>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f76c839e8>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f75d777b8>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f75d77780>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7f759cda90>}
+Event 'IMU Initialized' (24) called with args: {'caller': <imu.IMU object at 0x7f759cdb00>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f75d777b8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f76c839e8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f75d77780>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7f80976f28>}
+Video is already not being recorded.
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7f80976f28>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f759cdac8>}
+Event 'IMU Started' (25) called with args: {'caller': <imu.IMU object at 0x7f759cdb00>}
+'q' to exit.GST_ARGUS: Creating output stream
+CONSUMER: Waiting until producer is connected...
+GST_ARGUS: Available Sensor modes :
+GST_ARGUS: 3264 x 2464 FR = 21.000000 fps Duration = 47619048 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 3264 x 1848 FR = 28.000001 fps Duration = 35714284 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1920 x 1080 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1640 x 1232 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 59.999999 fps Duration = 16666667 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 120.000005 fps Duration = 8333333 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: Running with following settings:
+   Camera index = 0 
+   Camera mode  = 0 
+   Output Stream W = 3264 H = 2464 
+   seconds to Run    = 0 
+   Frame Rate = 21.000000 
+GST_ARGUS: Setup Complete, Starting captures for 0 seconds
+GST_ARGUS: Starting repeat capture requests.
+CONSUMER: Producer has connected; continuing.
+GST_ARGUS: Creating output stream
+CONSUMER: Waiting until producer is connected...
+GST_ARGUS: Available Sensor modes :
+GST_ARGUS: 3264 x 2464 FR = 21.000000 fps Duration = 47619048 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 3264 x 1848 FR = 28.000001 fps Duration = 35714284 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1920 x 1080 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1640 x 1232 FR = 29.999999 fps Duration = 33333334 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 59.999999 fps Duration = 16666667 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: 1280 x 720 FR = 120.000005 fps Duration = 8333333 ; Analog Gain range min 1.000000, max 10.625000; Exposure Range min 13000, max 683709000;
+
+GST_ARGUS: Running with following settings:
+   Camera index = 0 
+   Camera mode  = 0 
+   Output Stream W = 3264 H = 2464 
+   seconds to Run    = 0 
+   Frame Rate = 21.000000 
+GST_ARGUS: Setup Complete, Starting captures for 0 seconds
+GST_ARGUS: Starting repeat capture requests.
+CONSUMER: Producer has connected; continuing.
+Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7f97276f28>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f8d5839e8>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f8c6787b8>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f8c678780>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7f8c2cca90>}
+Event 'IMU Initialized' (24) called with args: {'caller': <imu.IMU object at 0x7f8c2ccb00>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f8c6787b8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f8d5839e8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f8c678780>}
+Event 'Switch Changed' (3) called with args: {'state': 1, 'previous_state': -1, 'caller': <switch.Switch object at 0x7f97276f28>}
+Event 'Video Started' (14) called with args: {'caller': <video.Video object at 0x7f8c2cca90>}
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7f97276f28>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f8c2ccac8>}
+Event 'IMU Started' (25) called with args: {'caller': <imu.IMU object at 0x7f8c2ccb00>}
+displaying: True
+'q' to exit.Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7fa58e4f28>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f9bbf1a20>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f9ace57b8>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f9ace5780>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7f9a93ca90>}
+Event 'IMU Initialized' (24) called with args: {'caller': <imu.IMU object at 0x7f9a93cb00>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f9ace57b8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f9bbf1a20>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f9ace5780>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7fa58e4f28>}
+Video is already not being recorded.
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7fa58e4f28>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f9a93cac8>}
+Event 'IMU Started' (25) called with args: {'caller': <imu.IMU object at 0x7f9a93cb00>}
+'q' to exit.Event 'Switch Initialized' (0) called with args: {'pin': 35, 'caller': <switch.Switch object at 0x7fa2c7ff28>}
+Event 'LED Initialized' (6) called with args: {'pin': 23, 'caller': <led.LED object at 0x7f98f8c9e8>}
+Event 'LED Initialized' (6) called with args: {'pin': 21, 'caller': <led.LED object at 0x7f980817b8>}
+Event 'LED Initialized' (6) called with args: {'pin': 19, 'caller': <led.LED object at 0x7f98081780>}
+Event 'Video Initialized' (13) called with args: {'caller': <video.Video object at 0x7f97cd6a90>}
+Event 'IMU Initialized' (24) called with args: {'caller': <imu.IMU object at 0x7f97cd6b00>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f980817b8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f98f8c9e8>}
+Event 'LED Started' (7) called with args: {'caller': <led.LED object at 0x7f98081780>}
+Event 'Switch Changed' (3) called with args: {'state': 0, 'previous_state': -1, 'caller': <switch.Switch object at 0x7fa2c7ff28>}
+Video is already not being recorded.
+Event 'Switch Started' (1) called with args: {'caller': <switch.Switch object at 0x7fa2c7ff28>}
+Event 'Serial Started' (10) called with args: {'caller': <serial_task.SerialTask object at 0x7f97cd6ac8>}
+Event 'IMU Started' (25) called with args: {'caller': <imu.IMU object at 0x7f97cd6b00>}
+'q' to exit.
