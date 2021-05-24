@@ -10,6 +10,7 @@ import msvcrt
 
 import numpy as np
 
+# This function contains modified code from Stackoverflow. Source: https://stackoverflow.com/questions/15528939/python-3-timed-input
 def timed_input(input_string, timeout_string: str = '', timeout: float = 5, timestep: float = 0.01, timer=time.monotonic):
     sys.stdout.write(input_string)
     sys.stdout.flush()
@@ -25,6 +26,7 @@ def timed_input(input_string, timeout_string: str = '', timeout: float = 5, time
     sys.stdout.write(timeout_string)
     print('')
     return None
+#
 
 def minimize_angular_difference(a, b):
     while (b - a) > pi:  b -= 2 * pi
@@ -67,6 +69,7 @@ def interpolate(a: Point, b: Point, d: int = None, N: int = None):
 
     return pts
 
+# Implementation heavily based off the rom spline explanation and example implementation on wikipedia. Source: https://en.wikipedia.org/wiki/Centripetal_Catmull%E2%80%93Rom_spline
 def rom_spline(P, d: float = None, N: int = None, alpha: float = 0, t: tuple = (0.0, 0.333, 0.667, 1.0)):
     if N == None:
         dist = dist_l2(P[1], P[2])
