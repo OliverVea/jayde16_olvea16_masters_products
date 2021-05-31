@@ -29,3 +29,15 @@ This file contains the code to plot spiderplots of several metrics across areas.
 - main_plot_spiderplot_area.py
 
 This file contains the code to plot spiderplots of several metrics by area.
+
+- read_energifyn.py
+
+File used to read the Energi Fyn GIS service and save it for later use.
+
+- read_geodanmark.py
+
+File used to read the GeoDanmark GIS service and save it for later use.
+
+- read_kortopslag.py
+
+File used to read the Kortopslag GIS service and save it for later use.
