@@ -1,0 +1,13 @@
+,typename,id,label,geometry,service,actor,description,date,name,cover_level
+0,water_node,74645cf9-735d-4f80-afe5-8ff949843c87,Water Node (sa),"Point;[587354.95],[6141123.53]",samaqua,VandCenter Syd,Brnd,2016-02-01 15:40:56.0000000,H80S704,1.85000000
+1,water_node,22c08f2d-365b-4c7c-971a-fb529ecfdeb8,Water Node (sa),"Point;[587317.76],[6141040.99]",samaqua,VandCenter Syd,Brnd,2016-02-01 15:40:56.0000000,H80S703,2.00000000
+2,water_node,b8900af4-5696-40b4-b084-bc1bdd434e64,Water Node (sa),"Point;[587314.78390959],[6141008.50869248]",samaqua,Havnevsen,Brnd,2017-01-04 14:51:18.0000000,H80R075,-0.08100000
+3,water_node,3a182fc1-163e-430a-abf3-908bb75bae6e,Water Node (sa),"Point;[587313.03046907],[6141040.8945042]",samaqua,Havnevsen,Brnd,2017-01-04 14:51:19.0000000,H80R081,-0.08100000
+4,water_node,05d59be3-7208-442e-8076-4fe1b050fd9d,Water Node (sa),"Point;[587342.53],[6141116.44]",samaqua,VandCenter Syd,Reguleringsbygvrk,2016-02-01 15:40:56.0000000,H80S706,2.15000000
+5,water_node,091d2d1d-da32-4e75-9944-cb5a46023d53,Water Node (sa),"Point;[587381.0],[6141077.95]",samaqua,VandCenter Syd,Brnd,2016-02-01 15:40:56.0000000,H80S702,1.90000000
+6,water_node,8e139989-a807-446a-9999-2c6c712cc9f4,Water Node (sa),"Point;[587261.72357139],[6141131.29272921]",samaqua,Havnevsen,Brnd,2017-01-04 14:51:19.0000000,H80R070,-0.08100000
+7,water_node,fee7393e-981a-4518-af45-a3b0519bfc55,Water Node (sa),"Point;[587337.02575079],[6141049.08697629]",samaqua,Havnevsen,Brnd,2017-01-04 14:51:19.0000000,H80R090,-0.08100000
+8,water_node,9a035201-3666-4f64-9c34-e8ad73980b7e,Water Node (sa),"Point;[587401.196],[6141049.222]",samaqua,VandCenter Syd,Brnd,2016-02-01 16:34:18.0000000,1143230,1.90000000
+9,water_node,42b7dc1a-5129-403e-b14d-922a420bd4f0,Water Node (sa),"Point;[587345.38],[6141112.84]",samaqua,VandCenter Syd,Pumpestation,2016-02-01 15:40:56.0000000,H80S49P,2.15000000
+10,water_node,46355e63-63e0-445a-b555-8a85849efef4,Water Node (sa),"Point;[587393.08],[6141030.45]",samaqua,VandCenter Syd,Brnd,2016-02-01 15:40:56.0000000,H80S701,2.00000000
+11,water_node,8f26c6f7-ea15-47f8-84af-c9784db925ad,Water Node (sa),"Point;[587286.76090974],[6141086.65428108]",samaqua,Havnevsen,Brnd,2017-01-04 14:51:19.0000000,H80R080,-0.08100000

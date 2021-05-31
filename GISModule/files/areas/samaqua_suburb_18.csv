@@ -1,0 +1,19 @@
+,typename,id,label,geometry,service,actor,description,date,name,cover_level
+0,water_node,2c1dc7d6-945d-4863-afca-5d4fe0abf53a,Water Node (sa),"Point;[587754.86806728],[6137450.26990793]",samaqua,Vejvsen,Brnd,2017-01-04 15:35:37.0000000,201316160,
+1,water_node,82faf589-e031-4118-aea8-7642525c639a,Water Node (sa),"Point;[587751.98040718],[6137455.61864203]",samaqua,Vejvsen,Brnd,2017-01-04 15:30:56.0000000,FIKTIVKNUDE222577,
+2,water_node,3047363d-3331-44a1-bc33-666dc2a19bef,Water Node (sa),"Point;[587836.91514447],[6137525.0312156]",samaqua,VandCenter Syd,Brnd,2017-01-04 14:25:29.0000000,F90F170,12.89900000
+3,water_node,8dd6a07c-8463-4969-986e-2a2680ba3e76,Water Node (sa),"Point;[587774.84989883],[6137565.05821456]",samaqua,VandCenter Syd,Brnd,2017-01-04 14:25:31.0000000,F90F282,14.12900000
+4,water_node,89553ef8-7bfa-4ac7-8c09-4679cb7634df,Water Node (sa),"Point;[587809.08462334],[6137490.04399702]",samaqua,VandCenter Syd,Brnd,2017-01-04 14:25:30.0000000,F90F271,12.71900000
+5,water_node,14bf0b65-cd6c-4989-bed9-8c0a6592c6bb,Water Node (sa),"Point;[587806.0909],[6137615.17183892]",samaqua,VandCenter Syd,Brnd,2017-01-04 14:25:32.0000000,F90F291,14.11900000
+6,water_node,732e35a9-9ec5-4b6c-bfaa-46a23daf5e6c,Water Node (sa),"Point;[587762.10362479],[6137461.98462002]",samaqua,Vejvsen,Brnd,2017-01-04 15:30:56.0000000,FIKTIVKNUDE222357,
+7,water_node,63d03772-4bd1-405c-ba68-a231844d13d7,Water Node (sa),"Point;[587845.02229385],[6137531.05006363]",samaqua,VandCenter Syd,Brnd,2017-01-04 14:25:29.0000000,F90F180,13.11900000
+8,water_node,8b34ea66-df7f-4f3f-95e9-f08835c806a3,Water Node (sa),"Point;[587818.80440695],[6137413.74531723]",samaqua,VandCenter Syd,Brnd,2017-01-04 14:25:30.0000000,F90F260,12.32900000
+9,water_node,5c6938b1-9538-4e3b-8497-ddc11b9f48ca,Water Node (sa),"Point;[587833.63614078],[6137533.54295817]",samaqua,VandCenter Syd,Brnd,2017-01-04 14:25:31.0000000,F90F280,12.98900000
+10,water_node,a81a719b-dd61-48a2-a471-449d54d7cc80,Water Node (sa),"Point;[587757.11914906],[6137583.89895756]",samaqua,VandCenter Syd,Brnd,2017-01-04 14:25:32.0000000,F90F292,14.47900000
+11,water_node,14d0cdff-389f-4d38-bba4-8d3a4ff54bce,Water Node (sa),"Point;[587895.15023392],[6137526.45562998]",samaqua,VandCenter Syd,Brnd,2017-01-04 14:25:31.0000000,F90F283,13.12900000
+12,water_node,46c14bbe-78ce-4b5b-ad59-10cf6463a209,Water Node (sa),"Point;[587827.16447945],[6137445.80873222]",samaqua,VandCenter Syd,Brnd,2017-01-04 14:25:29.0000000,F90F160,12.28900000
+13,water_node,a113d0de-0b53-4fb1-b8eb-8b8bbd4f7d83,Water Node (sa),"Point;[587765.3522424],[6137456.84917901]",samaqua,Vejvsen,Brnd,2017-01-04 15:35:38.0000000,201316164,
+14,water_node,0935c8bb-a181-4a13-86f9-1653dafaf93f,Water Node (sa),"Point;[587902.79225278],[6137524.3081541]",samaqua,VandCenter Syd,Brnd,2017-01-04 14:25:29.0000000,F90F190,13.08900000
+15,water_node,22fb5a3c-5805-4a80-8733-c497f519c731,Water Node (sa),"Point;[587783.56066861],[6137472.05809872]",samaqua,VandCenter Syd,Brnd,2017-01-04 14:25:36.0000000,F90F443,12.08900000
+16,water_node,17cfdb59-a202-41f6-8f98-dc3220f42819,Water Node (sa),"Point;[587828.55663675],[6137486.33243422]",samaqua,VandCenter Syd,Brnd,2017-01-04 14:25:30.0000000,F90F270,12.55900000
+17,water_node,2ef30cc7-0b29-4033-8e96-658c1082c9af,Water Node (sa),"Point;[587788.91064935],[6137542.77366248]",samaqua,VandCenter Syd,Brnd,2017-01-04 14:25:31.0000000,F90F281,13.46900000

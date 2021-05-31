@@ -1,0 +1,4 @@
+,typename,id,label,geometry,service,diameter_cm,shape,n_caps,rotation,owner,date
+0,heating_cover,{E49B4868-6DFE-45DB-8C5F-2CC7CF72232D},Heating Cover (fv),"Point;[587774.7209000001],[6137570.308800001],[0]",fjernvarme,80,2,1,329.05621,2,2016-11-28T11:27:17
+1,heating_cover,{4F5126EF-F031-4DE2-9BE3-0B370A5FEBCB},Heating Cover (fv),"Point;[587835.4596999995],[6137492.3664],[0]",fjernvarme,80,1,1,7.98883,2,2016-11-28T11:27:18
+2,heating_cover,{2815E3AF-FADE-49B9-A5F8-7F5ADBCF45ED},Heating Cover (fv),"Point;[587810.5274999999],[6137510.8114],[0]",fjernvarme,60,2,1,6.55775,2,2016-11-28T11:27:18

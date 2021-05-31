@@ -1,0 +1,6 @@
+,typename,id,label,geometry,service,diameter_cm,shape,n_caps,rotation,owner,date
+0,heating_cover,{47BE1124-62E5-4D68-BFA9-B0B8E98CB25A},Heating Cover (fv),"Point;[587656.3408000004],[6139635.9004],[0]",fjernvarme,60,1,1,330.27404,2,2016-11-28T11:27:18
+1,heating_cover,{F9B9138C-19FC-4263-A07F-1F4139608B27},Heating Cover (fv),"Point;[587613.7313000001],[6139593.1609000005],[0]",fjernvarme,60,1,1,360.0,2,2016-11-28T11:27:19
+2,heating_cover,{5D6F0AB1-93B4-4A23-AC40-EB0951261355},Heating Cover (fv),"Point;[587632.7766000004],[6139596.615499999],[0]",fjernvarme,60,1,1,360.0,2,2016-11-28T11:27:21
+3,heating_cover,{9BA0DEDC-AF18-4704-A6A3-438A883D3257},Heating Cover (fv),"Point;[587614.2885999996],[6139583.036499999],[0]",fjernvarme,60,1,2,360.0,2,2016-11-28T11:27:21
+4,heating_cover,{82C067C2-423A-4E2B-908D-A2ACC9B8F1BD},Heating Cover (fv),"Point;[587711.7482000003],[6139635.656099999],[0]",fjernvarme,60,1,1,360.0,2,2016-11-28T11:27:21

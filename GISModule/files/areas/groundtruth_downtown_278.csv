@@ -1,0 +1,279 @@
+,ID_img,timestamp,fix,nSat,hErr,alt,altU,h,hU,dgpsAge,checksum,date,typename,subcategory,detail,Measurement,note,energifyn,fjernvarme,geodanmark,kortopslag,samaqua,geometry,label,id
+0,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23667,,"Point;[587670.4376],[6139561.332]",Downspout Grille,0
+1,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23672,,"Point;[587668.1952],[6139556.027]",Downspout Grille,1
+2,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23674,,"Point;[587682.1708],[6139550.48]",Downspout Grille,2
+3,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,1034131762,23673,,"Point;[587683.8239],[6139555.949]",Downspout Grille,3
+4,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23665,,"Point;[587700.4111],[6139551.951]",Downspout Grille,4
+5,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,44362,,"Point;[587699.3154],[6139546.487]",Downspout Grille,5
+6,,,,,,,,,,,,13/12/2020,Downspout Grille,Wavy,,Totalstation,,,,1034131761,23675,,"Point;[587692.5801],[6139542.113]",Downspout Grille,6
+7,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23676,,"Point;[587690.1571],[6139548.266]",Downspout Grille,7
+8,,,,,,,,,,,,13/12/2020,Downspout Grille,Straight,Private,Totalstation,,,,,,,"Point;[587674.166],[6139563.572]",Downspout Grille,8
+9,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23668,,"Point;[587656.4861],[6139569.078]",Downspout Grille,9
+10,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23671,,"Point;[587653.5418],[6139564.112]",Downspout Grille,10
+11,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23670,,"Point;[587642.1122],[6139570.973]",Downspout Grille,11
+12,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23669,,"Point;[587645.2937],[6139576.088]",Downspout Grille,12
+13,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,44353,,"Point;[587630.2162],[6139585.154]",Downspout Grille,13
+14,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,47123,,"Point;[587627.0791],[6139580.166]",Downspout Grille,14
+15,,,,,,,,,,,,13/12/2020,Downspout Grille,Straight,Private,Totalstation,,,,,,,"Point;[587670.1498],[6139565.885]",Downspout Grille,15
+16,,,,,,,,,,,,13/12/2020,Light Fixture,Standing,,Totalstation,,45519,,1034131981,,,"Point;[587705.4087],[6139552.461]",Light Fixture,16
+17,,,,,,,,,,,,13/12/2020,Light Fixture,Hanging,,Totalstation,,38596,,,,,"Point;[587703.1415],[6139549.495]",Light Fixture,17
+18,,,,,,,,,,,,13/12/2020,Light Fixture,Standing,,Totalstation,,45520,,1034131743,,,"Point;[587680.1761],[6139558.291]",Light Fixture,18
+19,,,,,,,,,,,,13/12/2020,Light Fixture,Hanging,,Totalstation,,45525,,,,,"Point;[587679.4043],[6139555.284]",Light Fixture,19
+20,,,,,,,,,,,,13/12/2020,Light Fixture,Standing,,Totalstation,,18652,,,,,"Point;[587662.5281],[6139566.451]",Light Fixture,20
+21,,,,,,,,,,,,13/12/2020,Light Fixture,Hanging,,Totalstation,,45524,,,,,"Point;[587654.183],[6139566.603]",Light Fixture,21
+22,,,,,,,,,,,,13/12/2020,Light Fixture,Standing,,Totalstation,,45521,,,,,"Point;[587649.9483],[6139564.409]",Light Fixture,22
+23,,,,,,,,,,,,13/12/2020,Light Fixture,Hanging,,Totalstation,,45523,,,,,"Point;[587635.3198],[6139578.697]",Light Fixture,23
+24,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,,6374,,"Point;[587641.6172],[6139570.173]",Tree,24
+25,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,,625,,"Point;[587652.0298],[6139563.04]",Tree,25
+26,,,,,,,,,,,,13/12/2020,Greenery,Flowerbed,,Totalstation,,,,,,,"Point;[587690.4949],[6139548.769]",Greenery,26
+27,,,,,,,,,,,,13/12/2020,Greenery,Flowerbed,,Totalstation,,,,,,,"Point;[587696.4901],[6139554.032]",Greenery,27
+28,,,,,,,,,,,,13/12/2020,Manhole Cover,Large,"Ulefos,SquareFrame",Totalstation,,,,1034131769,,9b03aecd-cfb4-481b-88fa-1ca682bd50b1,"Point;[587699.9079],[6139550.133]",Manhole Cover,28
+29,,,,,,,,,,,,13/12/2020,Manhole Cover,Small Square,,Totalstation,,,,,23677,,"Point;[587691.6439],[6139544.163]",Manhole Cover,29
+30,,,,,,,,,,,,13/12/2020,Manhole Cover,Large,"Universal,SquareFrame",Totalstation,,,,,,,"Point;[587690.3879],[6139545.076]",Manhole Cover,30
+31,,,,,,,,,,,,13/12/2020,Manhole Cover,Small Square,,Totalstation,,,,,,,"Point;[587681.8102],[6139549.25]",Manhole Cover,31
+32,,,,,,,,,,,,13/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587669.912],[6139551.801]",Manhole Cover,32
+33,,,,,,,,,,,,13/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587661.1733],[6139555.616]",Manhole Cover,33
+34,,,,,,,,,,,,13/12/2020,Manhole Cover,Large,"Ulefos,SquareFrame",Totalstation,,,,1034131768,,3f36db0d-52b0-43a1-930f-8f5ace341324,"Point;[587656.9938],[6139565.003]",Manhole Cover,34
+35,,,,,,,,,,,,13/12/2020,Manhole Cover,Small Square,,Totalstation,,,,,,,"Point;[587650.3457],[6139564.407]",Manhole Cover,35
+36,,,,,,,,,,,,13/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587650.6697],[6139561.484]",Manhole Cover,36
+37,,,,,,,,,,,,13/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587642.6334],[6139566.544]",Manhole Cover,37
+38,,,,,,,,,,,,13/12/2020,Manhole Cover,Large,"Ulefos,SquareFrame",Totalstation,,,,1034131767,,,"Point;[587636.928],[6139580.112]",Manhole Cover,38
+39,,,,,,,,,,,,13/12/2020,Manhole Cover,Large,"Art,SquareFrame",Totalstation,,,,1034131766,,,"Point;[587634.0018],[6139582.804]",Manhole Cover,39
+40,,,,,,,,,,,,13/12/2020,Manhole Cover,Large,"Art,SquareFrame",Totalstation,,,,1034131763,,,"Point;[587620.8675],[6139590.061]",Manhole Cover,40
+41,,,,,,,,,,,,13/12/2020,Manhole Cover,Large,"Ulefos,SquareFrame",Totalstation,,,,,,,"Point;[587626.0803],[6139580.975]",Manhole Cover,42
+42,,,,,,,,,,,,13/12/2020,Manhole Cover,Rectangular Cover,Plastic,Totalstation,,,,,,,"Point;[587655.6352],[6139570.756]",Manhole Cover,43
+43,,,,,,,,,,,,13/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587658.7572],[6139570.999]",Manhole Cover,44
+44,,,,,,,,,,,,13/12/2020,Manhole Cover,Rectangular Cover,Stone,Totalstation,,,,,23666,,"Point;[587681.1648],[6139561.003]",Manhole Cover,45
+45,,,,,,,,,,,,13/12/2020,Misc,Electrical display,,Totalstation,,,,,,,"Point;[587688.7029],[6139548.071]",Misc,46
+46,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,46295,,"Point;[587609.7134],[6139576.379]",Downspout Grille,48
+47,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes Blank,Private,Totalstation,,,,,,,"Point;[587610.0482],[6139573.22]",Downspout Grille,49
+48,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22976,,"Point;[587600.1849],[6139573.805]",Downspout Grille,50
+49,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22973,,"Point;[587590.5097],[6139571.24]",Downspout Grille,51
+50,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,44361,,"Point;[587577.6432],[6139567.388]",Downspout Grille,52
+51,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22969,,"Point;[587566.1626],[6139564.007]",Downspout Grille,53
+52,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22966,,"Point;[587555.1941],[6139560.126]",Downspout Grille,54
+53,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22965,,"Point;[587545.713],[6139556.835]",Downspout Grille,55
+54,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22962,,"Point;[587533.9251],[6139552.518]",Downspout Grille,56
+55,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22960,,"Point;[587524.0076],[6139549.089]",Downspout Grille,57
+56,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,47596,,"Point;[587528.3306],[6139552.957]",Downspout Grille,58
+57,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,1034131618,22964,,"Point;[587544.437],[6139557.959]",Downspout Grille,59
+58,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22967,,"Point;[587555.1854],[6139562.027]",Downspout Grille,60
+59,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22970,,"Point;[587571.881],[6139568.253]",Downspout Grille,61
+60,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22972,,"Point;[587584.3441],[6139572.792]",Downspout Grille,62
+61,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22975,,"Point;[587596.1171],[6139577.327]",Downspout Grille,63
+62,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22978,,"Point;[587609.6672],[6139582.105]",Downspout Grille,64
+63,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,,,"Point;[587607.4641],[6139588.064]",Downspout Grille,65
+64,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22974,,"Point;[587590.4577],[6139581.745]",Downspout Grille,66
+65,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,45326,,"Point;[587573.6472],[6139575.439]",Downspout Grille,67
+66,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23142,,"Point;[587559.5428],[6139570.196]",Downspout Grille,68
+67,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22963,,"Point;[587545.4505],[6139564.978]",Downspout Grille,69
+68,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23146,,"Point;[587525.5673],[6139557.837]",Downspout Grille,70
+69,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23147,,"Point;[587524.1158],[6139561.373]",Downspout Grille,71
+70,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23145,,"Point;[587534.3852],[6139564.721]",Downspout Grille,72
+71,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,44354,,"Point;[587545.2459],[6139568.276]",Downspout Grille,73
+72,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23144,,"Point;[587550.15],[6139570.287]",Downspout Grille,74
+73,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23143,,"Point;[587555.3268],[6139571.879]",Downspout Grille,75
+74,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23141,,"Point;[587567.6182],[6139576.304]",Downspout Grille,76
+75,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23140,,"Point;[587579.7505],[6139580.596]",Downspout Grille,77
+76,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23137,,"Point;[587589.1068],[6139583.932]",Downspout Grille,78
+77,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23135,,"Point;[587607.0195],[6139590.396]",Downspout Grille,79
+78,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,,,"Point;[587609.228],[6139595.796]",Downspout Grille,80
+79,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22824,,"Point;[587601.2855],[6139613.166]",Downspout Grille,81
+80,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22815,,"Point;[587569.2221],[6139669.905]",Downspout Grille,82
+81,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22813,,"Point;[587564.4452],[6139680.66]",Downspout Grille,83
+82,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22816,,"Point;[587570.6087],[6139670.344]",Downspout Grille,84
+83,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22817,,"Point;[587575.374],[6139665.492]",Downspout Grille,85
+84,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22818,,"Point;[587579.7814],[6139658.143]",Downspout Grille,86
+85,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22819,,"Point;[587584.8845],[6139648.543]",Downspout Grille,87
+86,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22820,,"Point;[587586.6068],[6139639.807]",Downspout Grille,88
+87,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22821,,"Point;[587593.8879],[6139629.444]",Downspout Grille,89
+88,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22822,,"Point;[587603.8774],[6139615.28]",Downspout Grille,90
+89,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22823,,"Point;[587606.5745],[6139607.698]",Downspout Grille,91
+90,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22825,,"Point;[587613.2413],[6139603.678]",Downspout Grille,92
+91,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22826,,"Point;[587607.545],[6139616.961]",Downspout Grille,93
+92,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22827,,"Point;[587597.5707],[6139631.055]",Downspout Grille,94
+93,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22828,,"Point;[587593.3673],[6139638.326]",Downspout Grille,95
+94,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22829,,"Point;[587587.2226],[6139652.444]",Downspout Grille,96
+95,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22830,,"Point;[587581.4691],[6139662.65]",Downspout Grille,97
+96,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22831,,"Point;[587575.7441],[6139671.896]",Downspout Grille,98
+97,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22832,,"Point;[587569.8334],[6139680.071]",Downspout Grille,99
+98,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,,,"Point;[587619.3245],[6139600.377]",Downspout Grille,100
+99,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23122,,"Point;[587693.0314],[6139641.388]",Downspout Grille,101
+100,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23121,,"Point;[587700.6011],[6139647.742]",Downspout Grille,102
+101,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23124,,"Point;[587685.4247],[6139635.965]",Downspout Grille,103
+102,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23126,,"Point;[587677.3353],[6139630.347]",Downspout Grille,104
+103,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23127,,"Point;[587669.1652],[6139625.522]",Downspout Grille,105
+104,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23129,,"Point;[587658.9391],[6139618.78]",Downspout Grille,106
+105,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23130,,"Point;[587652.5536],[6139614.584]",Downspout Grille,107
+106,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23131,,"Point;[587647.2037],[6139609.727]",Downspout Grille,108
+107,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23133,,"Point;[587636.0881],[6139602.421]",Downspout Grille,109
+108,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,23134,,"Point;[587625.5503],[6139595.458]",Downspout Grille,110
+109,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22979,,"Point;[587633.5995],[6139595.08]",Downspout Grille,111
+110,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22980,,"Point;[587638.0835],[6139599.137]",Downspout Grille,112
+111,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,1034131734,43242,,"Point;[587649.2953],[6139606.511]",Downspout Grille,113
+112,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22982,,"Point;[587661.7014],[6139614.684]",Downspout Grille,114
+113,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22983,,"Point;[587670.7851],[6139619.378]",Downspout Grille,115
+114,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22984,,"Point;[587671.9313],[6139621.416]",Downspout Grille,116
+115,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22985,,"Point;[587680.0144],[6139626.759]",Downspout Grille,117
+116,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,1034131735,23125,,"Point;[587690.1059],[6139633.401]",Downspout Grille,118
+117,,,,,,,,,,,,13/12/2020,Downspout Grille,Holes,,Totalstation,,,,,22987,,"Point;[587697.986],[6139639.262]",Downspout Grille,119
+118,,,,,,,,,,,,13/12/2020,Downspout Grille,,,Totalstation,,,,,23009,,"Point;[587710.8197],[6139651.546]",Downspout Grille,120
+119,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,1034116583,27657,,"Point;[587610.3878],[6139590.646]",Tree,121
+120,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,,21913,,"Point;[587604.9432],[6139578.663]",Tree,122
+121,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,,13084,,"Point;[587599.5178],[6139576.579]",Tree,123
+122,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,,2119,,"Point;[587593.8638],[6139574.398]",Tree,124
+123,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,,699,,"Point;[587588.1311],[6139572.313]",Tree,125
+124,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,,6401,,"Point;[587582.473],[6139570.127]",Tree,126
+125,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,1034116808,6396,,"Point;[587569.9307],[6139576.039]",Tree,127
+126,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,1034116807,9532,,"Point;[587564.5044],[6139574.094]",Tree,128
+127,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,,27672,,"Point;[587559.1656],[6139572.068]",Tree,129
+128,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,,6386,,"Point;[587553.2454],[6139569.704]",Tree,130
+129,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,1034116806,27653,,"Point;[587547.7646],[6139567.834]",Tree,131
+130,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,1034116576,617,,"Point;[587526.4427],[6139560.572]",Tree,132
+131,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,1034116577,647,,"Point;[587525.4824],[6139550.883]",Tree,133
+132,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,1034116584,29404,,"Point;[587620.4445],[6139595.921]",Tree,134
+133,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,1034132305,,,"Point;[587604.6618],[6139611.665]",Tree,135
+134,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,1034116585,,,"Point;[587602.501],[6139624.089]",Tree,136
+135,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,1034116586,,,"Point;[587594.0253],[6139638.511]",Tree,137
+136,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,1034116587,,,"Point;[587577.5671],[6139658.49]",Tree,138
+137,,,,,,,,,,,,13/12/2020,Tree,,,Totalstation,,,,1034116588,683,,"Point;[587573.3657],[6139676.055]",Tree,139
+138,,,,,,,,,,,,13/12/2020,Light Fixture,Hanging,,Totalstation,,45574,,,,,"Point;[587618.4847],[6139588.842]",Light Fixture,140
+139,,,,,,,,,,,,13/12/2020,Light Fixture,Standing,,Totalstation,,18648,,,,,"Point;[587606.624],[6139589.182]",Light Fixture,141
+140,,,,,,,,,,,,13/12/2020,Light Fixture,Standing,,Totalstation,,45556,,,,,"Point;[587609.6094],[6139580.505]",Light Fixture,142
+141,,,,,,,,,,,,13/12/2020,Light Fixture,Hanging,,Totalstation,,45573,,,,,"Point;[587596.2882],[6139579.59]",Light Fixture,143
+142,,,,,,,,,,,,13/12/2020,Light Fixture,Hanging,,Totalstation,,45572,,,,,"Point;[587573.9342],[6139572.162]",Light Fixture,144
+143,,,,,,,,,,,,13/12/2020,Light Fixture,Standing,,Totalstation,,45557,,1034131608,,,"Point;[587574.0289],[6139577.053]",Light Fixture,145
+144,,,,,,,,,,,,13/12/2020,Light Fixture,Standing,,Totalstation,,18802,,,,,"Point;[587572.5137],[6139567.719]",Light Fixture,146
+145,,,,,,,,,,,,13/12/2020,Light Fixture,Hanging,,Totalstation,,24970,,,,,"Point;[587552.2722],[6139564.856]",Light Fixture,147
+146,,,,,,,,,,,,13/12/2020,Light Fixture,Standing,,Totalstation,,45558,,,,,"Point;[587543.803],[6139565.89]",Light Fixture,148
+147,,,,,,,,,,,,13/12/2020,Light Fixture,Hanging,,Totalstation,,45571,,,,,"Point;[587530.9086],[6139557.132]",Light Fixture,149
+148,,,,,,,,,,,,13/12/2020,Light Fixture,Standing,,Totalstation,,45563,,1034131742,,,"Point;[587617.5487],[6139598.963]",Light Fixture,150
+149,,,,,,,,,,,,13/12/2020,Light Fixture,Hanging,,Totalstation,,45704,,,,,"Point;[587612.1687],[6139601.64]",Light Fixture,151
+150,,,,,,,,,,,,13/12/2020,Light Fixture,Hanging,,Totalstation,,45690,,,,,"Point;[587603.7652],[6139613.258]",Light Fixture,152
+151,,,,,,,,,,,,13/12/2020,Light Fixture,Hanging,,Totalstation,,45691,,,,,"Point;[587601.0695],[6139627.789]",Light Fixture,153
+152,,,,,,,,,,,,13/12/2020,Light Fixture,Hanging,,Totalstation,,15859,,1034131983,,,"Point;[587576.9149],[6139659.572]",Light Fixture,154
+153,,,,,,,,,,,,13/12/2020,Light Fixture,Hanging,,Totalstation,,45692,,,,,"Point;[587572.4067],[6139677.83]",Light Fixture,155
+154,,,,,,,,,,,,13/12/2020,Light Fixture,Standing,,Totalstation,,45707,,,,,"Point;[587570.8716],[6139674.524]",Light Fixture,156
+155,,,,,,,,,,,,13/12/2020,Light Fixture,Hanging,,Totalstation,,45706,,,,,"Point;[587585.2353],[6139649.495]",Light Fixture,157
+156,,,,,,,,,,,,18/12/2020,Light Fixture,Hanging,,Totalstation,,45705,,1034131984,,,"Point;[587599.0965],[6139624.995]",Light Fixture,158
+157,,,,,,,,,,,,18/12/2020,Light Fixture,Hanging,,Totalstation,,45575,,,,,"Point;[587642.4764],[6139604.375]",Light Fixture,159
+158,,,,,,,,,,,,18/12/2020,Light Fixture,Hanging,,Totalstation,,45576,,,,,"Point;[587667.3652],[6139620.805]",Light Fixture,160
+159,,,,,,,,,,,,18/12/2020,Light Fixture,Hanging,,Totalstation,,45577,,,,,"Point;[587690.0106],[6139636.464]",Light Fixture,161
+160,,,,,,,,,,,,18/12/2020,Light Fixture,Standing,,Totalstation,,45522,,1034131741,,,"Point;[587630.1655],[6139588.285]",Light Fixture,162
+161,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,Art,Totalstation,,,,1034131764,,fd612d9d-8a14-44a1-bd02-3e9a27472be7,"Point;[587618.5122],[6139590.515]",Manhole Cover,163
+162,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,Art,Totalstation,,,,,,,"Point;[587619.1865],[6139595.327]",Manhole Cover,164
+163,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,"Art,SquareFrame",Totalstation,,,{5D6F0AB1-93B4-4A23-AC40-EB0951261355},,,,"Point;[587632.9554],[6139596.171]",Manhole Cover,165
+164,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,"Ulefos,Art,SquareFrame",Totalstation,,,,,22986,,"Point;[587692.7456],[6139637.497]",Manhole Cover,166
+165,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,"Ulefos,Art,SquareFrame",Totalstation,,,,1034131733,,27f5f63c-5982-4518-bd9e-444258a6445b,"Point;[587667.1474],[6139622.887]",Manhole Cover,167
+166,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,"Ulefos,Art,SquareFrame",Totalstation,,,,,,1e22459d-7ed1-4e51-9854-c40768c24524,"Point;[587657.4866],[6139616.306]",Manhole Cover,168
+167,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,Art,Totalstation,,,{F9B9138C-19FC-4263-A07F-1F4139608B27},,,,"Point;[587613.7071],[6139593.451]",Manhole Cover,169
+168,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,"Ulefos,SquareFrame",Totalstation,,,,,,,"Point;[587602.1779],[6139588.65]",Manhole Cover,170
+169,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,"Ulefos,SquareFrame",Totalstation,,,,,,,"Point;[587593.8889],[6139584.923]",Manhole Cover,171
+170,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,"Ulefos,Art,SquareFrame",Totalstation,,,,,,,"Point;[587566.8511],[6139572.089]",Manhole Cover,172
+171,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,"Art,SquareFrame",Totalstation,,,,,,f324ef94-36d5-4618-a257-b983dce06085,"Point;[587523.312],[6139556.82]",Manhole Cover,173
+172,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,"Ulefos,Art,SquareFrame",Totalstation,,,,,,976a3009-6b96-45c4-81ba-85c6288577da,"Point;[587542.2081],[6139560.625]",Manhole Cover,174
+173,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,"Ulefos,Art,SquareFrame",Totalstation,,,,,,c0e8dcc2-1f98-4115-94a5-ab00f8c1a412,"Point;[587567.4877],[6139569.499]",Manhole Cover,175
+174,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,"Ulefos,Art,SquareFrame",Totalstation,,,{9BA0DEDC-AF18-4704-A6A3-438A883D3257},,,,"Point;[587614.5834],[6139582.933]",Manhole Cover,176
+175,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,"Ulefos,Art,SquareFrame",Totalstation,,,,,,,"Point;[587615.3729],[6139583.494]",Manhole Cover,177
+176,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,"Ulefos,Art,SquareFrame",Totalstation,,,,,,,"Point;[587618.5846],[6139577.666]",Manhole Cover,178
+177,,,,,,,,,,,,18/12/2020,Trash Can,Type 1,,Totalstation,,,,,,,"Point;[587630.6333],[6139589.25]",Trash Can,179
+178,,,,,,,,,,,,18/12/2020,Trash Can,Type 1,,Totalstation,,,,,,,"Point;[587668.0735],[6139618.215]",Trash Can,180
+179,,,,,,,,,,,,18/12/2020,Trash Can,Type 1,,Totalstation,,,,,,,"Point;[587596.2174],[6139635.36]",Trash Can,181
+180,,,,,,,,,,,,18/12/2020,Trash Can,Type 1,,Totalstation,,,,,,,"Point;[587573.1086],[6139677.407]",Trash Can,182
+181,,,,,,,,,,,,18/12/2020,Trash Can,Type 1,,Totalstation,,,,,,,"Point;[587574.7255],[6139664.058]",Trash Can,183
+182,,,,,,,,,,,,18/12/2020,Trash Can,Type 1,,Totalstation,,,,,,,"Point;[587603.3202],[6139588.047]",Trash Can,184
+183,,,,,,,,,,,,18/12/2020,Trash Can,Type 2,,Totalstation,,,,,,,"Point;[587551.7001],[6139569.855]",Trash Can,185
+184,,,,,,,,,,,,18/12/2020,Trash Can,Type 1,,Totalstation,,,,,,,"Point;[587595.1548],[6139575.096]",Trash Can,186
+185,,,,,,,,,,,,18/12/2020,Bench,No Armrest,,Totalstation,,,,,938,,"Point;[587631.0719],[6139590.803]",Bench,187
+186,,,,,,,,,,,,18/12/2020,Bench,Armrest,,Totalstation,,,,,4895,,"Point;[587610.9961],[6139597.584]",Bench,188
+187,,,,,,,,,,,,18/12/2020,Bench,No Armrest,,Totalstation,,,,,3645,,"Point;[587601.9781],[6139614.665]",Bench,189
+188,,,,,,,,,,,,18/12/2020,Bench,No Armrest,,Totalstation,,,,,4880,,"Point;[587595.3554],[6139636.633]",Bench,190
+189,,,,,,,,,,,,18/12/2020,Bench,No Armrest,,Totalstation,,,,,4881,,"Point;[587578.7029],[6139657.677]",Bench,191
+190,,,,,,,,,,,,18/12/2020,Bench,Armrest,,Totalstation,,,,,,,"Point;[587603.8888],[6139588.758]",Bench,192
+191,,,,,,,,,,,,18/12/2020,Bench,Round,,Totalstation,,,,,,,"Point;[587525.0806],[6139560.727]",Bench,193
+192,,,,,,,,,,,,18/12/2020,Greenery,Plants inside bars,,Totalstation,,,,,8074,,"Point;[587634.2782],[6139593.205]",Greenery,194
+193,,,,,,,,,,,,18/12/2020,Greenery,Plants inside bars,,Totalstation,,,,,9697,,"Point;[587638.1678],[6139598.106]",Greenery,195
+194,,,,,,,,,,,,18/12/2020,Greenery,Plants inside bars,,Totalstation,,,,,3638,,"Point;[587643.4228],[6139601.629]",Greenery,196
+195,,,,,,,,,,,,18/12/2020,Greenery,Plants inside bars,,Totalstation,,,,,9713,,"Point;[587678.3848],[6139624.35]",Greenery,197
+196,,,,,,,,,,,,18/12/2020,Greenery,Plants inside bars,,Totalstation,,,,,,,"Point;[587604.9663],[6139611.895]",Greenery,198
+197,,,,,,,,,,,,18/12/2020,Greenery,Plants inside bars,,Totalstation,,,,,,,"Point;[587602.3795],[6139624.036]",Greenery,199
+198,,,,,,,,,,,,18/12/2020,Greenery,Plants inside bars,,Totalstation,,,,,,,"Point;[587593.9326],[6139638.426]",Greenery,200
+199,,,,,,,,,,,,18/12/2020,Greenery,Plants inside bars,,Totalstation,,,,,6655,,"Point;[587583.4778],[6139648.302]",Greenery,201
+200,,,,,,,,,,,,18/12/2020,Greenery,Plants inside bars,,Totalstation,,,,,9707,,"Point;[587581.7461],[6139651.029]",Greenery,202
+201,,,,,,,,,,,,18/12/2020,Greenery,Plants inside bars,,Totalstation,,,,,,,"Point;[587577.1354],[6139658.377]",Greenery,203
+202,,,,,,,,,,,,18/12/2020,Manhole Cover,Rectangular Cover,Plastic,Totalstation,,,,,,,"Point;[587585.7961],[6139572.154]",Manhole Cover,204
+203,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Square,,Totalstation,,,,,22971,,"Point;[587577.4972],[6139569.418]",Manhole Cover,205
+204,,,,,,,,,,,,18/12/2020,Manhole Cover,Rectangular Cover,Stone,Totalstation,,,,,,,"Point;[587570.1621],[6139566.969]",Manhole Cover,206
+205,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Square,,Totalstation,,,,,,,"Point;[587528.4813],[6139552.263]",Manhole Cover,207
+206,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587536.6357],[6139552.686]",Manhole Cover,208
+207,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587551.3266],[6139558.027]",Manhole Cover,209
+208,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587585.6778],[6139569.031]",Manhole Cover,210
+209,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Square,,Totalstation,,,,,22977,,"Point;[587596.8899],[6139575.748]",Manhole Cover,211
+210,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,Complex,Totalstation,,,,,,,"Point;[587604.5117],[6139573.91]",Manhole Cover,212
+211,,,,,,,,,,,,18/12/2020,Manhole Cover,Small round,Complex,Totalstation,,,,,,,"Point;[587604.9226],[6139573.864]",Manhole Cover,213
+212,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587616.7043],[6139577.336]",Manhole Cover,214
+213,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587624.5893],[6139578.691]",Manhole Cover,215
+214,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587635.0336],[6139571.399]",Manhole Cover,216
+215,,,,,,,,,,,,18/12/2020,Manhole Cover,Rectangular Cover,Metal,Totalstation,,,,,,,"Point;[587634.7403],[6139583.68]",Manhole Cover,217
+216,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,47615,,"Point;[587639.8382],[6139596.2]",Manhole Cover,218
+217,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587645.8945],[6139601.423]",Manhole Cover,219
+218,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,SquareFrame,Totalstation,,,,,,,"Point;[587659.9257],[6139610.671]",Manhole Cover,220
+219,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Square,,Totalstation,,,,,,,"Point;[587663.2721],[6139614.208]",Manhole Cover,221
+220,,,,,,,,,,,,18/12/2020,Manhole Cover,Removed,,Totalstation,,,,,,,"Point;[587669.4244],[6139616.923]",Manhole Cover,222
+221,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587678.8883],[6139623.302]",Manhole Cover,223
+222,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587687.9758],[6139628.766]",Manhole Cover,224
+223,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587697.6149],[6139634.61]",Manhole Cover,225
+224,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Square,,Totalstation,,,,,,,"Point;[587692.4674],[6139641.466]",Manhole Cover,226
+225,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Square,,Totalstation,,,,,,,"Point;[587684.6921],[6139636.024]",Manhole Cover,227
+226,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587674.607],[6139630.738]",Manhole Cover,228
+227,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Square,,Totalstation,,,,,,,"Point;[587667.016],[6139624.166]",Manhole Cover,229
+228,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587662.6098],[6139623.325]",Manhole Cover,230
+229,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Square,,Totalstation,,,,,23132,,"Point;[587646.8428],[6139610.672]",Manhole Cover,231
+230,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587645.7934],[6139609.596]",Manhole Cover,232
+231,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587626.8632],[6139601.674]",Manhole Cover,233
+232,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587622.2813],[6139599.274]",Manhole Cover,234
+233,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587589.8612],[6139651.871]",Manhole Cover,235
+234,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Square,,Totalstation,,,,,,,"Point;[587568.7329],[6139688.332]",Manhole Cover,236
+235,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587571.7659],[6139662.277]",Manhole Cover,237
+236,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Square,,Totalstation,,,,,,,"Point;[587576.3938],[6139657.758]",Manhole Cover,238
+237,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587581.0585],[6139646.188]",Manhole Cover,239
+238,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587581.1999],[6139645.582]",Manhole Cover,240
+239,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587590.2235],[6139630.233]",Manhole Cover,241
+240,,,,,,,,,,,,18/12/2020,Tree,,,Totalstation,,,,1034116650,676,,"Point;[587537.8058],[6139622.776]",Tree,242
+241,,,,,,,,,,,,18/12/2020,Tree,,,Totalstation,,,,1034116651,27685,,"Point;[587529.3376],[6139617.85]",Tree,243
+242,,,,,,,,,,,,18/12/2020,Tree,,,Totalstation,,,,1034116653,2120,,"Point;[587520.4013],[6139632.385]",Tree,244
+243,,,,,,,,,,,,18/12/2020,Tree,,,Totalstation,,,,1034116652,6372,,"Point;[587529.0578],[6139637.472]",Tree,245
+244,,,,,,,,,,,,18/12/2020,Tree,,,Totalstation,,,,1034116666,27677,,"Point;[587536.7094],[6139647.531]",Tree,246
+245,,,,,,,,,,,,18/12/2020,Tree,,,Totalstation,,,,1034116667,691,,"Point;[587538.9198],[6139643.666]",Tree,247
+246,,,,,,,,,,,,18/12/2020,Tree,,,Totalstation,,,,,13075,,"Point;[587548.5133],[6139627.59]",Tree,248
+247,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,Ulefos,Totalstation,,,,,,71f8bcc6-3df8-41bf-a5b1-ef5483fd72b6,"Point;[587539.3254],[6139637.157]",Manhole Cover,249
+248,,,,,,,,,,,,18/12/2020,Manhole Cover,Large Square,,Totalstation,,,,,,b33d7de1-bfab-4337-9f4e-e065d0497b10,"Point;[587555.5142],[6139611.313]",Manhole Cover,250
+249,,,,,,,,,,,,18/12/2020,Manhole Cover,Large Square,,Totalstation,,,,,,,"Point;[587579.3319],[6139616.884]",Manhole Cover,251
+250,,,,,,,,,,,,18/12/2020,Manhole Cover,Large Square,,Totalstation,,,,,,,"Point;[587581.005],[6139611.737]",Manhole Cover,252
+251,,,,,,,,,,,,18/12/2020,Manhole Cover,Large Square,,Totalstation,,,,1034132063,,eb04cc25-d6e7-450e-8cec-4e6601e9a9da,"Point;[587550.3565],[6139620.084]",Manhole Cover,253
+252,,,,,,,,,,,,18/12/2020,Downspout Grille,Wavy,,Totalstation,,,,1034131985,,,"Point;[587559.3715],[6139609.916]",Downspout Grille,254
+253,,,,,,,,,,,,18/12/2020,Downspout Grille,Wavy,,Totalstation,,,,1034131987,,,"Point;[587568.0242],[6139612.667]",Downspout Grille,255
+254,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,Ulefos,Totalstation,,,,,,,"Point;[587574.2465],[6139624.114]",Manhole Cover,256
+255,,,,,,,,,,,,18/12/2020,Downspout Grille,Wavy,,Totalstation,,,,,,,"Point;[587545.9769],[6139606.636]",Downspout Grille,257
+256,,,,,,,,,,,,18/12/2020,Downspout Grille,Wavy,,Totalstation,,,,,,,"Point;[587539.5097],[6139604.728]",Downspout Grille,258
+257,,,,,,,,,,,,18/12/2020,Downspout Grille,Wavy,,Totalstation,,,,,,,"Point;[587533.5669],[6139602.567]",Downspout Grille,259
+258,,,,,,,,,,,,18/12/2020,Downspout Grille,Wavy,,Totalstation,,,,,,,"Point;[587523.0219],[6139613.197]",Downspout Grille,260
+259,,,,,,,,,,,,18/12/2020,Downspout Grille,Wavy,,Totalstation,,,,,,,"Point;[587514.3788],[6139628.003]",Downspout Grille,261
+260,,,,,,,,,,,,18/12/2020,Downspout Grille,Wavy,,Totalstation,,,,,,,"Point;[587535.9958],[6139647.406]",Downspout Grille,262
+261,,,,,,,,,,,,18/12/2020,Downspout Grille,Wavy,,Totalstation,,,,1034131924,,,"Point;[587543.8189],[6139655.608]",Downspout Grille,263
+262,,,,,,,,,,,,18/12/2020,Downspout Grille,Wavy,,Totalstation,,,,1034131925,,,"Point;[587550.3642],[6139643.83]",Downspout Grille,264
+263,,,,,,,,,,,,18/12/2020,Trash Can,Type 3,,Totalstation,,,,,,,"Point;[587548.5104],[6139604.952]",Trash Can,265
+264,,,,,,,,,,,,18/12/2020,Statue,,Turtle,Totalstation,,,,,,,"Point;[587577.8086],[6139614.573]",Statue,266
+265,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,,Totalstation,,,,,,,"Point;[587579.3178],[6139621.41]",Manhole Cover,267
+266,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,Stone,Totalstation,,,,,,,"Point;[587579.2462],[6139622.205]",Manhole Cover,268
+267,,,,,,,,,,,,18/12/2020,Manhole Cover,Small Round,Stone,Totalstation,,,,,,,"Point;[587576.7876],[6139626.446]",Manhole Cover,269
+268,,,,,,,,,,,,18/12/2020,Manhole Cover,Large,,Totalstation,,,,,,,"Point;[587544.1889],[6139653.734]",Manhole Cover,270
+269,,,,,,,,,,,,18/12/2020,Manhole Cover,,,Totalstation,,,,,,,"Point;[587513.7843],[6139624.478]",Manhole Cover,271
+270,,,,,,,,,,,,23/01/2020,Downspout Grille,,,Totalstation,,,,,,,"Point;[587613.674],[6139574.295]",Downspout Grille,272
+271,,,,,,,,,,,,23/01/2020,Downspout Grille,,,Totalstation,,,,,,,"Point;[587598.194],[6139587.287]",Downspout Grille,273
+272,,,,,,,,,,,,23/01/2020,Downspout Grille,,,Totalstation,,,,,23136,,"Point;[587608.391],[6139593.067]",Downspout Grille,274
+273,,,,,,,,,,,,23/01/2020,Fuse Box,,,Totalstation,,1221,,,,,"Point;[587585.346],[6139583.459]",Fuse Box,275
+274,,,,,,,,,,,,23/01/2020,Statue,,Tall,Totalstation,,,,1034131765,8056,,"Point;[587616.786],[6139590.829]",Statue,276
+275,83,155600.3,4,10,1,14.407,M,39.46,M,1.3,0015*7D,,Downspout Grille,,,GNSS,,,,1034131988,,,"Point;[587570.7415],[6139621.077]",Downspout Grille,277
+276,84,160958.65,5,8,1.2,19.592,M,39.46,M,1.6,0015*72,,Downspout Grille,,,GNSS,,,,1034131813,21464,,"Point;[587695.9196],[6139539.141]",Downspout Grille,278
+277,85,161145.3,5,6,4.2,25.227,M,39.46,M,1.3,0015*79,,Downspout Grille,,,GNSS,,,,,21465,,"Point;[587708.0232],[6139525.467]",Downspout Grille,279
