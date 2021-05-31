@@ -1,8 +1,12 @@
 Content overview:
 
-- 30mm_calibration_params_fixed.npy
+- calibration_images
 
-Numpy file containing the calibrated camera coefficients
+The images used for calibration in camera.py.
+
+- angle_image.png
+
+Image used to display rotations around the y-axis in camera.py.
 
 - batch_transform_images.py
 
@@ -13,6 +17,10 @@ Final image size (image_size) and FOV (image_fov) can be set in the script file.
 
 Python script transforming videos in the folder ./videos if the filename starts with '!'.
 Final image size (image_size) and FOV (image_fov) can be set in the script file.
+
+- calibration_file.npy
+
+Numpy file containing the calibrated camera coefficients
 
 - camera.py
 
